@@ -1,23 +1,23 @@
 # CV_Example
 # Hoja de Vida
 
-## Nombre Completo
-**Profesión:** _Tu profesión_
+## Nombre Completo Brandon stiwarth mora carreño
+**Profesión:** _pastelero y rescatista animal
 
 ## 📞 Contacto
-- **Teléfono:** +57 123 456 7890
-- **Email:** [correo@ejemplo.com](mailto:correo@ejemplo.com)
-- **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
+- **Teléfono:**
+- **Email:** bmora4453@gmail.com
+- **LinkedIn:**https://www.linkedin.com/in/brandon-mora-902164352/
 
 ## 🏢 Experiencia Laboral
-### **Empresa XYZ** _(2020 - Actualidad)_
-- Puesto ocupado y descripción breve.
+### **Empresa XYZ** Hamburguesas el corral
+- Oficios varios hacer hamburguesas y atencion al cliente 
 
 ### **Empresa ABC** _(2018 - 2020)_
 - Puesto ocupado y descripción breve.
 
 ## 🎓 Educación
-### **Universidad Ejemplo** _(2014 - 2018)_
+### **Universidad Ejemplo** _(2012-2018)
 - Título obtenido.
 
 ## 💡 Habilidades
