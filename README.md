@@ -10,7 +10,7 @@
 - **LinkedIn:**https://www.linkedin.com/in/brandon-mora-902164352/
 
 ## 🏢 Experiencia Laboral
-### **Empresa XYZ** Hamburguesas el corral
+### **Empresa Hamburguesas el corral
 - Oficios varios y atencion al cliente 
 
 ### **Empresa Almacontac
@@ -21,7 +21,7 @@
 - Título obtenido. Bachillerato
 
 ## 💡 Habilidades
-- **Habilidad 1** solicion de problemas 
+- **Habilidad 1** solucion de problemas 
 - **Habilidad 2**Comunicacion
 - **Habilidad 3**Creatividad
 
