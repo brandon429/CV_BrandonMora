@@ -18,12 +18,12 @@
 
 ## 🎓 Educación
 ### **Universidad Ejemplo** _(2012-2018)
-- Título obtenido.
+- Título obtenido. Bachillerato
 
 ## 💡 Habilidades
-- **Habilidad 1**
-- **Habilidad 2**
-- **Habilidad 3**
+- **Habilidad 1** Resolucion de peoblemas 
+- **Habilidad 2**Comunicacion
+- **Habilidad 3**Creatividad
 
 ---
 
