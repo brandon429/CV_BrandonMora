@@ -21,7 +21,7 @@
 - Título obtenido. Bachillerato
 
 ## 💡 Habilidades
-- **Habilidad 1** Resolucion de peoblemas 
+- **Habilidad 1** solicion de problemas 
 - **Habilidad 2**Comunicacion
 - **Habilidad 3**Creatividad
 
