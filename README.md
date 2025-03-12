@@ -1,19 +1,19 @@
-# CV_Example
+# CV Brandon mora
 # Hoja de Vida
 
-## Nombre Completo Brandon stiwarth mora carreño
-**Profesión:** Atencion al cliente y rescatista animal
+##  Brandon stiwarth mora carreño
+**Profesión:** Integracion operaciones logisticas
+Soy estudiante del programa Técnico en Operaciones Logísticas con especialización en atención al cliente y ventas. Mi formación me ha permitido desarrollar una sólida comprensión de la gestión de procesos logísticos, optimización de recursos y estrategias para mejorar la experiencia de compra. Cuento con habilidades comprobadas en atención al cliente, lo que me permite ofrecer soluciones rápidas y efectivas, garantizando la satisfacción del cliente. Además, tengo una excelente capacidad para trabajar bajo presión, colaborar en equipo y resolver problemas de manera eficiente. Me apasiona contribuir al éxito de la empresa y estoy en busca de oportunidades donde pueda aplicar mis conocimientos, seguir aprendiendo y aportar al crecimiento y eficiencia de la organización.
 
 ## 📞 Contacto
-- **Teléfono:**
 - **Email:** bmora4453@gmail.com
 - **LinkedIn:**https://www.linkedin.com/in/brandon-mora-902164352/
 
 ## 🏢 Experiencia Laboral
-### **Empresa Hamburguesas el corral
+### **Empresa Hamburguesas el corral (2022_2023
 - Oficios varios y atencion al cliente 
 
-### **Empresa Almacontac
+### **Empresa Almacontac (2023_2024
 - Acesor call center y atencion al cliente 
 
 ## 🎓 Educación
