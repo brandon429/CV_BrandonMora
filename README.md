@@ -2,7 +2,7 @@
 # Hoja de Vida
 
 ## Nombre Completo Brandon stiwarth mora carreño
-**Profesión:** _pastelero y rescatista animal
+**Profesión:** Atencion al cliente y rescatista animal
 
 ## 📞 Contacto
 - **Teléfono:**
@@ -17,7 +17,7 @@
 - Acesor call center y atencion al cliente 
 
 ## 🎓 Educación
-### **Universidad Ejemplo** _(2012-2018)
+### El pensamiento de pitagoras(2012-2018)
 - Título obtenido. Bachillerato
 
 ## 💡 Habilidades
