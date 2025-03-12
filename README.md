@@ -11,10 +11,10 @@
 
 ## 🏢 Experiencia Laboral
 ### **Empresa XYZ** Hamburguesas el corral
-- Oficios varios hacer hamburguesas y atencion al cliente 
+- Oficios varios y atencion al cliente 
 
-### **Empresa ABC** _(2018 - 2020)_
-- Puesto ocupado y descripción breve.
+### **Empresa Almacontac
+- Acesor call center y atencion al cliente 
 
 ## 🎓 Educación
 ### **Universidad Ejemplo** _(2012-2018)
